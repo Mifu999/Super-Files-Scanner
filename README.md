@@ -42,7 +42,7 @@ Before running the script, ensure that you have the following:
 
 3. **Using the Batch File**:
    
-   For Windows users, simply double-click the `start.bat` file to run the script. This will execute the `main.py` script.
+   For Windows users, simply double-click the `SFS.bat` file to run the script. This will execute the `main.py` script.
 
 4. **Manual execution**:
 
